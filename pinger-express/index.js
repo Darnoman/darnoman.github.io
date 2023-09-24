@@ -15,6 +15,6 @@ async function ping(){
     .then(async res => console.log(await res.text()))
 }
 app.listen(port, () => {
+    ping()
     console.log(`Example app listening on port ${port}`)
-    
 })
