@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/darnoman.github.io/static/css/main.f855e6bc.css",
-    "main.js": "/darnoman.github.io/static/js/main.3ec94d1d.js",
-    "static/js/453.b6c792a6.chunk.js": "/darnoman.github.io/static/js/453.b6c792a6.chunk.js",
-    "static/media/logo.svg": "/darnoman.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/darnoman.github.io/index.html",
-    "main.f855e6bc.css.map": "/darnoman.github.io/static/css/main.f855e6bc.css.map",
-    "main.3ec94d1d.js.map": "/darnoman.github.io/static/js/main.3ec94d1d.js.map",
-    "453.b6c792a6.chunk.js.map": "/darnoman.github.io/static/js/453.b6c792a6.chunk.js.map"
+    "main.css": "/Darnoman/darnoman.github.io/static/css/main.f855e6bc.css",
+    "main.js": "/Darnoman/darnoman.github.io/static/js/main.097dc0d9.js",
+    "static/js/453.b6c792a6.chunk.js": "/Darnoman/darnoman.github.io/static/js/453.b6c792a6.chunk.js",
+    "static/media/logo.svg": "/Darnoman/darnoman.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Darnoman/darnoman.github.io/index.html",
+    "main.f855e6bc.css.map": "/Darnoman/darnoman.github.io/static/css/main.f855e6bc.css.map",
+    "main.097dc0d9.js.map": "/Darnoman/darnoman.github.io/static/js/main.097dc0d9.js.map",
+    "453.b6c792a6.chunk.js.map": "/Darnoman/darnoman.github.io/static/js/453.b6c792a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.3ec94d1d.js"
+    "static/js/main.097dc0d9.js"
   ]
 }
